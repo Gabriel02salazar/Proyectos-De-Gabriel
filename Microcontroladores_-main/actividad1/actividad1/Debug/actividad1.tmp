@@ -1,0 +1,40 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\Uriel I MCarrillo\OneDrive\Escritorio\Microcontroladores\microcontroladores-main\actividad1\actividad1\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Uriel I MCarrillo\OneDrive\Escritorio\Microcontroladores\microcontroladores-main\actividad1\actividad1\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Users\Uriel I MCarrillo\OneDrive\Escritorio\Microcontroladores\microcontroladores-main\actividad1\actividad1\m328Pdef.inc</FILE>
+  <FILE>C:\Users\Uriel I MCarrillo\OneDrive\Escritorio\Microcontroladores\microcontroladores-main\actividad1\actividad1\./m328Pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Uriel I MCarrillo\OneDrive\Escritorio\Microcontroladores\microcontroladores-main\actividad1\actividad1\Debug\actividad1.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>actividad1.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>actividad1.map</FILE>
+  <FILE>actividad1.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <selection><FILE>C:\Users\Uriel I MCarrillo\OneDrive\Escritorio\Microcontroladores\microcontroladores-main\actividad1\actividad1\main.asm</FILE><LINE>37</LINE></selection>
+  <Start><FILE>C:\Users\Uriel I MCarrillo\OneDrive\Escritorio\Microcontroladores\microcontroladores-main\actividad1\actividad1\main.asm</FILE><LINE>67</LINE></Start>
+  <Start1><FILE>C:\Users\Uriel I MCarrillo\OneDrive\Escritorio\Microcontroladores\microcontroladores-main\actividad1\actividad1\main.asm</FILE><LINE>92</LINE></Start1>
+  <Start2><FILE>C:\Users\Uriel I MCarrillo\OneDrive\Escritorio\Microcontroladores\microcontroladores-main\actividad1\actividad1\main.asm</FILE><LINE>117</LINE></Start2>
+  <Start3><FILE>C:\Users\Uriel I MCarrillo\OneDrive\Escritorio\Microcontroladores\microcontroladores-main\actividad1\actividad1\main.asm</FILE><LINE>142</LINE></Start3>
+  <Delay><FILE>C:\Users\Uriel I MCarrillo\OneDrive\Escritorio\Microcontroladores\microcontroladores-main\actividad1\actividad1\main.asm</FILE><LINE>74</LINE></Delay>
+  <Loop><FILE>C:\Users\Uriel I MCarrillo\OneDrive\Escritorio\Microcontroladores\microcontroladores-main\actividad1\actividad1\main.asm</FILE><LINE>84</LINE></Loop>
+  <Delay1><FILE>C:\Users\Uriel I MCarrillo\OneDrive\Escritorio\Microcontroladores\microcontroladores-main\actividad1\actividad1\main.asm</FILE><LINE>99</LINE></Delay1>
+  <Loop1><FILE>C:\Users\Uriel I MCarrillo\OneDrive\Escritorio\Microcontroladores\microcontroladores-main\actividad1\actividad1\main.asm</FILE><LINE>109</LINE></Loop1>
+  <Delay2><FILE>C:\Users\Uriel I MCarrillo\OneDrive\Escritorio\Microcontroladores\microcontroladores-main\actividad1\actividad1\main.asm</FILE><LINE>124</LINE></Delay2>
+  <Loop2><FILE>C:\Users\Uriel I MCarrillo\OneDrive\Escritorio\Microcontroladores\microcontroladores-main\actividad1\actividad1\main.asm</FILE><LINE>134</LINE></Loop2>
+  <Delay3><FILE>C:\Users\Uriel I MCarrillo\OneDrive\Escritorio\Microcontroladores\microcontroladores-main\actividad1\actividad1\main.asm</FILE><LINE>149</LINE></Delay3>
+  <Loop3><FILE>C:\Users\Uriel I MCarrillo\OneDrive\Escritorio\Microcontroladores\microcontroladores-main\actividad1\actividad1\main.asm</FILE><LINE>159</LINE></Loop3>
+ </LABELS>
+</ASSEMBLER_INFO>
